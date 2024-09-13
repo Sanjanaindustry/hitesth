@@ -13,3 +13,16 @@ let isLoggedIn=false
 //string
 
 console.log(typeof "hitesh");
+let value=-3
+let posValue= +value
+console.log(posValue)
+
+let str1="hello"
+let str2="hitt"
+let str3=str1+str2
+console.log(str3)
+
+
+let gameCounter=100
+++gameCounter;
+console.log(gameCounter);
