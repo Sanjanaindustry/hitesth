@@ -26,3 +26,14 @@ console.log(str3)
 let gameCounter=100
 ++gameCounter;
 console.log(gameCounter);
+let chan ="histeh"
+
+let another=chan
+another="chaiaurcode"
+
+console.log(another);
+console.log(chan);
+
+let user1={
+
+}
